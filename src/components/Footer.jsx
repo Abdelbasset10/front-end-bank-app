@@ -38,7 +38,7 @@ const Footer = () => {
       </div>
 
       <div className='flex flex-col ss:flex-row justify-between items-center w-10/12  my-4 mx-auto' >
-        <p className='text-white mb-4 ss:mb-0'>Copyright @ 2021 HooBank. All Rights Reserved. </p>
+        <p className='text-white mb-4 ss:mb-0'>@2022 Abdelbasset-2022 </p>
         <div className='flex justify-content items-center gap-4' >
           <img src={instagram} alt="instagram" className='cursor-pointer' />
           <img src={facebook} alt="facebook" className='cursor-pointer'  />
